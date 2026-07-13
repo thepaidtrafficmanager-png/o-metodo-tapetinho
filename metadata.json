@@ -1,0 +1,6 @@
+{
+  "name": "Método Casa Limpa em Rotina",
+  "description": "Aprenda o passo a passo simples e prático para treinar seu cachorro a fazer xixi e cocô no tapetinho higiênico, sem brigas e com resultados rápidos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
